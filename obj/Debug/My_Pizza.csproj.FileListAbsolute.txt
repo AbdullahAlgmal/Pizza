@@ -1,0 +1,10 @@
+E:\5-MyProjects\My_Pizza\bin\Debug\My_Pizza.exe.config
+E:\5-MyProjects\My_Pizza\bin\Debug\My_Pizza.exe
+E:\5-MyProjects\My_Pizza\bin\Debug\My_Pizza.pdb
+E:\5-MyProjects\My_Pizza\obj\Debug\My_Pizza.csproj.AssemblyReference.cache
+E:\5-MyProjects\My_Pizza\obj\Debug\My_Pizza.Form1.resources
+E:\5-MyProjects\My_Pizza\obj\Debug\My_Pizza.Properties.Resources.resources
+E:\5-MyProjects\My_Pizza\obj\Debug\My_Pizza.csproj.GenerateResource.cache
+E:\5-MyProjects\My_Pizza\obj\Debug\My_Pizza.csproj.CoreCompileInputs.cache
+E:\5-MyProjects\My_Pizza\obj\Debug\My_Pizza.exe
+E:\5-MyProjects\My_Pizza\obj\Debug\My_Pizza.pdb
